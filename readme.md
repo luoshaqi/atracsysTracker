@@ -26,4 +26,5 @@ source ~/.bashrc
 # Python wrapper
 ```
 cd ~/Atracsys/fusionTrack_SDK-v4.7.4-linux64/python
+pip install atracsys-4.7.1.1.tar.gz
 ```
