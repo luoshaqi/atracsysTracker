@@ -1,5 +1,15 @@
 # install SDK
-## unzip the fusionTrack_SDK-v4.7.4-linux64.zip
+## SDK Linux download and unzip
+1. download fusionTrack_v4.7.4_gcc-5.4.tar.xz
+2. unzip it
+```
+cd ~
+mkdir Atracsys
+cd Atracsys
+tar -xJvf fusionTrack_v4.7.4_gcc-5.4.tar.xz
+cd fusionTrack_SDK-v4.7.4-linux64
+```
+## SDK Linux version installation
 ```
 cd ~/Atracsys/fusionTrack_SDK-v4.7.4-linux64
 mkdir build
